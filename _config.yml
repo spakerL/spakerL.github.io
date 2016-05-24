@@ -71,6 +71,6 @@ deploy:
 
      type: git
 
-     repo:https://github.com/spakerL/spakerL.github.io.git
+     repo: https://github.com/spakerL/spakerL.github.io.git
 
-     branch:master
+     branch: master
