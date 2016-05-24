@@ -69,8 +69,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 
-     type: git
+     type: github
 
-     repo: https://github.com/spakerL/spakerL.github.io.git
+     repo: https://github.com/spakerL/spakerL.github.com.git
 
      branch: master
